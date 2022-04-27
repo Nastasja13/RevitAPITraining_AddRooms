@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining_AddRooms.dll"</Assembly>
+		<AddInId>7CABCA78-9DE8-408E-A502-30E0EB03EBA9</AddInId>
+		<FullClassName>RevitAPITraining_AddRooms.AddRooms</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка помещений</Text>
+	</AddIn>
+</RevitAddIns>
